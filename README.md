@@ -10,6 +10,6 @@ Hii, welcome to my project gallery as a Data Science student.
 * [CNN Image classification](https://github.com/carrotpie25/Portfolio/tree/9e3c8d67756067507909e51a45e169e1f8112279/Image%20Classification)</br>
   Simple image classification program using the convolutional neural network (CNN)
 * [Random Forest for Financial Risk Management]
-*   Covid-19 CT Image Data Classification Using PCA and three types of classifiers: KNN,  Naive Bayes and MLP-NN </br>
+*   Pattern Recognition: Covid-19 CT Image Data Classification Using PCA and three types of classifiers: KNN,  Naive Bayes and MLP-NN </br>
     Comparing K-Nearest Neighbour (KNN) Classifier, Naive Bayes Classifier and Multi-layer Perceptron (MLP) Neural Networks for Covid-19 CT Image Data Classification Using Principal Component Analysis (PCA). 
 
