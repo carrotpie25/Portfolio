@@ -12,7 +12,7 @@ Hii, I'm Avery and welcome to my project gallery as a Data Science student. This
   Simple image classification program using the convolutional neural network (CNN)
 * [Machine Learning: Random Forest for Financial Risk Management] </br>
   Using random forest algorithm and SVM to predict stock data
-* Database Normalization: 
+* [Database Normalization with Covid 19 data] (https://github.com/carrotpie25/Portfolio/tree/2b4b1951083f6aabe85e18bb824146a8361162a9/Covid%2019%20Data%20Normalization)
 *   [Pattern Recognition: Covid-19 CT Image Data Classification Using PCA and three types of classifiers: KNN,  Naive Bayes and MLP-NN](https://github.com/carrotpie25/Portfolio/tree/c7a373ac308dc877f1f677ee76dba9b642776b5e/Covid-19%20CT%20Image%20PCA%20Classification) </br>
     Comparing K-Nearest Neighbour (KNN) Classifier, Naive Bayes Classifier and Multi-layer Perceptron (MLP) Neural Networks for Covid-19 CT Image Data Classification Using Principal Component Analysis (PCA). 
 
