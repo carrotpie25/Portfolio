@@ -1,6 +1,6 @@
 # Airline Booking Database Management System (MySQL & Oracle APEX)
 ## Introduction
-Airline booking system is the database management system for an airline company. It allows the company to keep track of passenger’s and staff’s details, ticket prices, flight schedules,  transactions, etc. With so much data and details, airline booking management system helps company to manage and keep track of the data through automation by database. An airline database system allows customers to retrieve information from database and update it automatically without the hassle and manual labor. Without a centralized database, airlines would struggle to manage bookings efficiently, leading to delays, overbooking, and bad customer experience.
+This airline booking system is a database management system for an airline company, allowing them to keep track of passenger’s and staff’s details, ticket prices, flight schedules,  transactions, etc. An airline database system allows customers to retrieve information from database and update it automatically without the hassle and manual labor. Without a centralized database, airlines would struggle to manage bookings efficiently, leading to delays, overbooking, and bad customer experience.
 
 ## Business Assumptions
 1.	A passenger must have a contact detail. Each contact detail must belong only to one passenger.
@@ -18,6 +18,7 @@ Airline booking system is the database management system for an airline company.
 13.	A passenger’s contact detail must include a city. A city can be present in many passenger’s contact detail
 
 ## Entity Relationship Diagram 
+Click [here](https://github.com/carrotpie25/Portfolio/blob/3f66a7e78e1a2c63fecf45a034a0645f1c011432/Airline%20Booking%20System%20DBMS/Relational%20Diagram.png) to view its ERD showing data types and relationship between entities
 
 ## Files
 * [DDL.sql](DDL.sql) - Creating table statements
