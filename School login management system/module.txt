@@ -1,0 +1,19 @@
+DTS102TC	C++	Te001	St001	79,5	Not Released
+DTS102TC	C++	Te001	St002	55	Not Released
+DTS102TC	C++	Te001	St003	60	Not Released
+DTS102TC	C++	Te001	St004	79,5	Not Released
+DTS102TC	C++	Te001	St005	55	Not Released
+DTS002TC	Big Data	Te002	St001	79,5	Released
+DTS002TC	Big Data	Te002	St002	55	Released
+DTS002TC	Big Data	Te002	St003	60	Released
+DTS002TC	Big Data	Te002	St004	79,5	Released
+DTS002TC	Big Data	Te002	St005	55	Released
+DTS103TC	Matlab	Te003	St001	60	Released
+DTS103TC	Matlab	Te003	St002	79,5	Released
+DTS103TC	Matlab	Te003	St003	55	Released
+DTS103TC	Matlab	Te003	St004	60	Released
+DTS103TC	Matlab	Te003	St005	79,5	Released
+					
+
+ DTS102TC    0 Released
+ DTS102TC    0 Released
