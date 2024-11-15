@@ -16,5 +16,5 @@ Hii, I'm Avery and welcome to my project gallery as a Data Science student. This
 *   [Pattern Recognition: Covid-19 CT Image Data Classification Using PCA and three types of classifiers: KNN,  Naive Bayes and MLP-NN](https://github.com/carrotpie25/Portfolio/tree/c7a373ac308dc877f1f677ee76dba9b642776b5e/Covid-19%20CT%20Image%20PCA%20Classification) </br>
     Comparing K-Nearest Neighbour (KNN) Classifier, Naive Bayes Classifier and Multi-layer Perceptron (MLP) Neural Networks for Covid-19 CT Image Data Classification Using Principal Component Analysis (PCA). 
 
-## Languages:
+## Languages
 Python, C++, Matlab, SQL
