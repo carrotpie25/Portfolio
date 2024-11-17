@@ -17,4 +17,4 @@ Cleaning and normalizing a given raw COVID-19 data and normalizing it into 3NF. 
     Comparing K-Nearest Neighbour (KNN) Classifier, Naive Bayes Classifier and Multi-layer Perceptron (MLP) Neural Networks for Covid-19 CT Image Data Classification Using Principal Component Analysis (PCA). 
 
 ## Languages
-Python, C++, Matlab, SQL
+Python, C++, C, SQL, Matlab
