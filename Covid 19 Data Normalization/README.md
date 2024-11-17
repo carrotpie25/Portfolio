@@ -4,5 +4,5 @@ This project is about cleaning and normalizing a given raw COVID-19 data and nor
 
 [sqlScript.sql] contains the sample queries for tasks and visualisation<br>
 [dataset.sql] includes the orginal data <br>
-[Normalised_Data.sql](https://github.com/carrotpie25/Portfolio/blob/21c2b6d2d60623b3472de778c262b7198568cb41/Covid%2019%20Data%20Normalization/dataset.sql) includes the normalised data (3NF)
+[Normalised_Data.sql](https://github.com/carrotpie25/Portfolio/blob/bbe66a8db8399e59423baf88af617f913b3679e3/Covid%2019%20Data%20Normalization/Normalized_Data.sql) includes the normalised data (3NF)
 
