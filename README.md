@@ -1,6 +1,6 @@
 # Portfolio
 
-Hii, I'm Avery and welcome to my project gallery as a Data Science student. This portfolio is a collection of the works I have done for academic purposes, as well as for personal projects.  
+Hii, I'm Michelle (Avery) Basarah and welcome to my project gallery as a Data Science student. This portfolio is a collection of the works I have done for academic purposes, as well as for personal projects.  
 
 ## My Projects
 * [N Queen Problem (C++)](https://github.com/carrotpie25/Portfolio/tree/6d79ad682cb6256568c0f87cfab30217cac1406e/NQueen%20Problem) </br>
